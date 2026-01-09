@@ -1,3 +1,4 @@
+package Basic;
 public class Q2 {
     public static void main(String[] args) {
         int[] arr = {2, 5, 8, 2, 10, 2, 2, 3};
